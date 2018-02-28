@@ -221,8 +221,7 @@ a:hover{
 }
 
 .logo-section {
-	background: transparent url("../img/placeholder1.jpg") no-repeat center;
-	/* background: url("../img/bgk.jpg") no-repeat center top; */
+	background: url("../img/bgk.jpg") no-repeat center top;
 	background-size: cover;
 	padding: 6rem 0 8.5rem;
 	z-index: 2;
